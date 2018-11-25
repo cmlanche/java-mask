@@ -19,7 +19,7 @@ public class Controller implements Initializable {
     @Override
     public void initialize(URL location, ResourceBundle resources) {
         try {
-            BufferedImage image = ImageIO.read(getClass().getResource("../shape02.png"));
+            BufferedImage image = ImageIO.read(getClass().getResource("../shape01.png"));
             BufferedImage mask = ImageIO.read(getClass().getResource("../source.jpg"));
 
             File file = new File("test.png");
