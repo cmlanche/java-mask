@@ -1,0 +1,9 @@
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.StackPane?>
+<StackPane fx:controller="sample.Controller"
+           xmlns:fx="http://javafx.com/fxml" alignment="center">
+
+    <ImageView fx:id="imageview">
+
+    </ImageView>
+</StackPane>
