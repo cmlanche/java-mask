@@ -7,13 +7,11 @@
 
 ### 示例1
 
-蒙版：![source](/Users/cmlanche/sourcetree/java-mask/java-mask/resources/source.jpg)
-
-
+蒙版：![source](https://github.com/cmlanche/java-mask/blob/master/java-mask/resources/source.jpg)
 
 原图：shape01.png
 
-![shape01](/Users/cmlanche/sourcetree/java-mask/java-mask/resources/shape01.png)
+![shape01](https://github.com/cmlanche/java-mask/blob/master/java-mask/resources/shape01.png)
 
 处理后：
 
@@ -25,8 +23,8 @@
 
 原图：shape02.png
 
-![shape02](/Users/cmlanche/sourcetree/java-mask/java-mask/resources/shape02.png)
+![shape02](https://github.com/cmlanche/java-mask/blob/master/java-mask/resources/shape02.png)
 
 处理后：
 
-![shape02_result](/Users/cmlanche/sourcetree/java-mask/shape02_result.png)
+![shape02_result](https://github.com/cmlanche/java-mask/blob/master/shape02_result.png)
