@@ -17,9 +17,7 @@
 
 处理后：
 
-
-
-![test](/Users/cmlanche/sourcetree/java-mask/java-mask/test.png)
+![shape01](https://github.com/cmlanche/java-mask/blob/master/shape01_result.png)
 
 ### 示例2
 
